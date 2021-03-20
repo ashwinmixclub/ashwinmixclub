@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ashwini kumar Gupta
-- 👀 I’m interested in software developemnt.
+- 👀 I’m interested in software developement.
 - 🌱 I’m currently learning machine learning tools and algorithm.
 - 📫 Reach me through linkedin : ashwinikumar-gupta
 
